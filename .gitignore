@@ -20,3 +20,6 @@ android/
 
 # TypeScript
 *.tsbuildinfo
+
+# Research PDFs (already on origin/main, not needed in feature branch)
+*.pdf
