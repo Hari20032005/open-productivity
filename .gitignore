@@ -1,0 +1,22 @@
+node_modules/
+.expo/
+dist/
+web-build/
+.env.local
+.env
+*.env
+ios/
+android/
+
+# Expo
+.expo-shared/
+
+# macOS
+.DS_Store
+*.pem
+
+# Local env files
+.env*.local
+
+# TypeScript
+*.tsbuildinfo
